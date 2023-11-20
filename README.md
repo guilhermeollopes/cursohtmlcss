@@ -1,2 +1,2 @@
 # Curso de HTML e CSSp
-Repositório do Curso de HTML e CSS na B7Web
+Repositório de Guilherme Lopes do Curso de HTML e CSS na B7Web
